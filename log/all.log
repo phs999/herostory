@@ -1,0 +1,17 @@
+[03:50:09,376] [INFO] ServerMain.main --> 游戏服务器启动成功
+[03:57:50,950] [INFO] ServerMain.main --> 游戏服务器启动成功
+[04:05:25,382] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg= 
+[04:05:25,385] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg= 
+[04:06:04,205] [INFO] ServerMain.main --> 游戏服务器启动成功
+[04:06:07,237] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 19, cap: 19)) 
+[04:06:07,241] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 4, cap: 4)) 
+[04:06:36,910] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
+[04:06:37,883] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
+[04:06:38,713] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
+[04:06:39,502] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
+[04:06:40,609] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
+[04:06:41,112] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14)) 
+[04:06:42,416] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14)) 
+[04:06:43,760] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
+[04:06:44,455] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 14, cap: 14)) 
+[04:06:45,631] [INFO] GameMgsHandler.channelRead0 --> 收到客户端消息 msg=BinaryWebSocketFrame(data: PooledUnsafeDirectByteBuf(ridx: 0, widx: 10, cap: 10)) 
